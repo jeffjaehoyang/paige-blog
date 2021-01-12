@@ -1,27 +1,27 @@
 'use strict';
 
 module.exports = {
-  url: 'https://quirky-bardeen-7bac4b.netlify.app',
+  url: 'https://www.paigeshin.com',
   pathPrefix: '/',
   title: 'Personal Blog by Paige Shin',
   subtitle:
-    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+    'Northwestern grad with a passion for the venture development industry',
+  copyright: '© Paige Shin 2021',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/',
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about',
     },
     // {
-    //   label: 'Contact me',
+    //   label: 'Contact',
     //   path: '/pages/contacts',
     // },
   ],
@@ -29,22 +29,22 @@ module.exports = {
     name: 'Paige Shin',
     photo: '/photo.jpg',
     bio:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Northwestern grad with a passion for the venture development industry',
     contacts: {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: '#',
+      twitter: 'paigeeshin',
       github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'paigeshin',
+      instagram: 'paigeeshin',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '#',
+      youtube: 'FreeSeoul16',
       soundcloud: '',
       medium: '',
     },
