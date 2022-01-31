@@ -2,9 +2,9 @@
 template: page
 title: About Me
 slug: about
-socialImage: /media/jeonguk-wpt8yxhnk9w-unsplash.jpg
+socialImage: /media/wesley-tingey-dkckic0bqtu-unsplash.jpg
 draft: false
 ---
-I'm currently on the Program Team at SparkLabs, a startup accelerator in Seoul, focused on investment and global coordination. Before stepping into the venture industry, I worked for public relations agency Golin, lifestyle editorial Goop, and The Korea Herald. I graduated with a degree in journalism from Northwestern University in 2019.
+I'm a recent journalism graduate of Northwestern University with a passion for the Premier League, Korean pop culture, and venture development industry. My blog is where I ruminate these passions in public.
 
-Have a cool startup and want to share? [Let's talk!](paigeshin.com/contact/)
+I'm not sure what brought you here, but I do hope you stay.
