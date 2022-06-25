@@ -9,21 +9,26 @@ type Props = {
   children: ReactNode,
   title: string,
   description?: string,
-  socialImage?: string
+  socialImage?: string,
 };
 
-const Layout = ({
-  children,
-  title,
-  description,
-  socialImage = ''
-}: Props) => {
+const Layout = ({ children, title, description, socialImage = '' }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage || author.photo;
   const metaImageUrl = url + metaImage;
 
   return (
-    <div className={styles.layout}>
+    <div
+      className={styles.layout}
+      // TODO: temporary styling below (delete when publishing)
+      style={{
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'center',
+        minHeight: '100vh',
+      }}
+    >
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
