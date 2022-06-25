@@ -1,6 +1,6 @@
 ---
 template: page
-title: contact
+title: Contact
 slug: contact
 socialImage: /media/wesley-tingey-dkckic0bqtu-unsplash.jpg
 draft: false
